@@ -1,0 +1,42 @@
+
+.landing-title{
+    text-align: center;
+    left: 37%;
+    top: 6%;
+    position: absolute;
+    color: whitesmoke;
+    font-weight: bold;
+    margin-top: 10px;
+    font-size: 2.1rem;
+}
+
+.lgo-btn{
+    padding: 5px 12px 12px;
+    position: absolute;
+    border-radius: 100%;
+    right: 3%;
+    top: 30%;
+    border: none;
+    background-image: linear-gradient(-225deg, #22E1FF 0%, #1D8FE1 48%, #625EB1 100%);
+}
+
+.project-cards{
+    margin-top: 3%;
+}
+
+.card{
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    box-shadow: rgba(243, 53, 202, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+.card-img-top{
+    border-radius: 20px 20px 0 0;
+}
+
+.project-btn{
+    text-decoration: none;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: whitesmoke;
+}
